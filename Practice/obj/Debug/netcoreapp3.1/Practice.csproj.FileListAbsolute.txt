@@ -1,0 +1,13 @@
+C:\Thunder_Tech Code\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.exe
+C:\Thunder_Tech Code\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.deps.json
+C:\Thunder_Tech Code\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.json
+C:\Thunder_Tech Code\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.runtimeconfig.dev.json
+C:\Thunder_Tech Code\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.dll
+C:\Thunder_Tech Code\Practice\Practice\bin\Debug\netcoreapp3.1\Practice.pdb
+C:\Thunder_Tech Code\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csprojAssemblyReference.cache
+C:\Thunder_Tech Code\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfoInputs.cache
+C:\Thunder_Tech Code\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.AssemblyInfo.cs
+C:\Thunder_Tech Code\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.csproj.CoreCompileInputs.cache
+C:\Thunder_Tech Code\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.dll
+C:\Thunder_Tech Code\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.pdb
+C:\Thunder_Tech Code\Practice\Practice\obj\Debug\netcoreapp3.1\Practice.genruntimeconfig.cache
